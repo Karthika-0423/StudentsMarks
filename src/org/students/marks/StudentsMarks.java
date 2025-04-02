@@ -30,5 +30,8 @@ public class StudentsMarks {
 	System.out.println("Students Mark3 : "+mark3);
 	
 	System.out.println("Selenium01 completed");
+
+	System.out.println("Students mark updated");
+
 	}
 }
