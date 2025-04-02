@@ -29,5 +29,6 @@ public class StudentsMarks {
 	Short mark3 = sc.nextShort();
 	System.out.println("Students Mark3 : "+mark3);
 	
+	System.out.println("Students mark updated");
 	}
 }
